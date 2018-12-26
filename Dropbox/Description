@@ -1,0 +1,3 @@
+This project uses the DropBox API to connect to your DropBox account.
+The web application can be used to upload images to the account, view and download images to local storage.
+Used XAMPP to deploy this web app.
