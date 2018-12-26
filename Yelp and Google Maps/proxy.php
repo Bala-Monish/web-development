@@ -1,6 +1,6 @@
 <?php
   // put your Yelp API key here:
-  $API_KEY = 'zh5mzmXy5TsJeHLtLmhGxeQ32JyfoYdTVjoFEnUUx8_PHey77snMBxEc95jA9NeUZhZcfg5QQMtARQRwPVw-Im6oOtVwFHjuzi0Y1B2PsW7Cr4sg8BZ4fQ6Fwy7FW3Yx';
+  $API_KEY = '';
 
   $API_HOST = "https://api.yelp.com";
   $SEARCH_PATH = "/v3/businesses/search";
